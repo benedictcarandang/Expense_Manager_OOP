@@ -53,4 +53,6 @@ The app fosters mindful consumption by helping users track and categorize their 
 6. Type 2 to view expenses.
 7. Type 3 if you want to calculate your expenses.
 8. Type 4 if you want to exit.
-9. 
+
+## Video
+[![Watch Video](https://img.shields.io/badge/Watch-Demonstration-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1VU5sLuMIlm3kvF1QdJutMCsOULMrZ1Fe/view?usp=sharing)
