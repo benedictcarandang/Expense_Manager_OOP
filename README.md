@@ -45,7 +45,12 @@ The app fosters mindful consumption by helping users track and categorize their 
 - A code editor or IDE (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
 ### How to Run
-1. Clone the repository or download the project files.
-2. Compile all `.java` files using:
-   ```bash
-   javac *.java
+1. Type 1 to add expense.
+2. Choose an expenses type if it is Food,Utility or Entertainment.
+3. Enter description.
+4. Enter price.
+5. Choose meal type if it is Breakfast,Lunch or Dinner.
+6. Type 2 to view expenses.
+7. Type 3 if you want to calculate your expenses.
+8. Type 4 if you want to exit.
+9. 
